@@ -6,9 +6,9 @@ Using magical algorithmic magic to create valid pairings, sending each person an
  This code is designed to use a gmail account and to take a .csv input containing the following rows:
  
  Participant names
- The person they got last year, to be excluded from the selection pool, may be blank
- Their partner (spouse/etc), also to be excluded from the selection pool, may also be blank
- Their email address
+ The person they got last year, to be excluded from the selection pool, may be blank /n
+ Their partner (spouse/etc), also to be excluded from the selection pool, may also be blank /n
+ Their email address /n
  
  sample .csv is included.
  
